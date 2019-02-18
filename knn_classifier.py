@@ -1,3 +1,8 @@
+'''
+@author: Rabindra Nepal
+Email: rnepal2@unl.edu
+'''
+
 import math
 import numpy as np
 # scipy stats
