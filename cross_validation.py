@@ -1,9 +1,13 @@
+'''
+@author: Rabindra Nepal
+Email: rnepal2@unl.edu
+'''
+
 import math
 import numpy as np
-
 from joblib import Parallel, delayed
 import multiprocessing
-
+# from file
 from metrics import accuracy_score, precision_score, recall_score, f1_score
 
 # it takes data, labels and ith partition and returns 
