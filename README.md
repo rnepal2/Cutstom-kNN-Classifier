@@ -1,8 +1,8 @@
 # k-Nearest Neighbors Classification 
 
-We implement the brute-force k-Nearest Neighbors Classifier and use the implementation 
-to study the wine-white dataset. All the required helper functions and performance metrics 
-are also implemented. The implementations are cross checked with scikit learn.
+(Brute-force) k-Nearest Neighbors Classifier is implemented and used  
+in wine-white dataset. All the required helper functions and performance metrics 
+are also implemented. This custom implementation is cross checked with scikit learn.
 
 * knn_classifier.py: KNeighborsClassifier class. Methods: fit, predict, predict_proba
 * helper_functions.py: train_test_split, scale_normal - feature normalization.
